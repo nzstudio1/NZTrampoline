@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'NZTrampoline_Example' do
+  pod 'NZTrampoline', :path => '../'
+
+  target 'NZTrampoline_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

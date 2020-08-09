@@ -1,0 +1,22 @@
+{
+  "name": "NZTrampoline",
+  "version": "0.1.0",
+  "summary": "A short description of NZTrampoline.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/innovian/NZTrampoline",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "innovian": "asdcasdc@asdcasdc.com"
+  },
+  "source": {
+    "git": "https://github.com/innovian/NZTrampoline.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "NZTrampoline/NZTrampoline/Classes/**/*"
+}

@@ -1,0 +1,16 @@
+PODS:
+  - NZTrampoline (0.1.0)
+
+DEPENDENCIES:
+  - NZTrampoline (from `../`)
+
+EXTERNAL SOURCES:
+  NZTrampoline:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  NZTrampoline: 94d7f89ccf9f4978883cfe8e1d7aa151f5cb8b0a
+
+PODFILE CHECKSUM: bee21e517dc0ac0eaabc813c25109e67674aad55
+
+COCOAPODS: 1.9.1

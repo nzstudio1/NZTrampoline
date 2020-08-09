@@ -1,0 +1,6 @@
+framework module NZTrampoline {
+  umbrella header "NZTrampoline-umbrella.h"
+
+  export *
+  module * { export * }
+}

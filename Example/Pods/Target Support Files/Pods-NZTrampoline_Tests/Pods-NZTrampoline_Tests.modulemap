@@ -1,0 +1,6 @@
+framework module Pods_NZTrampoline_Tests {
+  umbrella header "Pods-NZTrampoline_Tests-umbrella.h"
+
+  export *
+  module * { export * }
+}
