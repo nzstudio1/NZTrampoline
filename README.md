@@ -1,6 +1,6 @@
 # NZTrampoline
 
-[![CI Status](https://img.shields.io/travis/innovian/NZTrampoline.svg?style=flat)](https://travis-ci.org/innovian/NZTrampoline)
+[![CI Status](https://img.shields.io/travis/nzstudio/NZTrampoline.svg?style=flat)](https://travis-ci.org/nzstudio/NZTrampoline)
 [![Version](https://img.shields.io/cocoapods/v/NZTrampoline.svg?style=flat)](https://cocoapods.org/pods/NZTrampoline)
 [![License](https://img.shields.io/cocoapods/l/NZTrampoline.svg?style=flat)](https://cocoapods.org/pods/NZTrampoline)
 [![Platform](https://img.shields.io/cocoapods/p/NZTrampoline.svg?style=flat)](https://cocoapods.org/pods/NZTrampoline)
@@ -22,7 +22,7 @@ pod 'NZTrampoline'
 
 ## Author
 
-innovian, asdcasdc@asdcasdc.com
+nzstudio, asdcasdc@asdcasdc.com
 
 ## License
 

@@ -3,7 +3,7 @@ This application makes use of the following third party libraries:
 
 ## NZTrampoline
 
-Copyright (c) 2020 innovian <asdcasdc@asdcasdc.com>
+Copyright (c) 2020 nzstudio <asdcasdc@asdcasdc.com>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

@@ -2,8 +2,8 @@
 //  ViewController.swift
 //  NZTrampoline
 //
-//  Created by innovian on 08/09/2020.
-//  Copyright (c) 2020 innovian. All rights reserved.
+//  Created by nzstudio on 08/09/2020.
+//  Copyright (c) 2020 nzstudio. All rights reserved.
 //
 
 import UIKit
