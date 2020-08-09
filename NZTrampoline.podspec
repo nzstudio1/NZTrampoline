@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NZTrampoline'
-  s.version          = '0.1.0'
+  s.version          = '0.1.1'
   s.summary          = 'Allows having more than one delegate for a specific protocol.'
 
 # This description is used to generate tags and improve search results.

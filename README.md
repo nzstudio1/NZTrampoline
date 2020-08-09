@@ -22,7 +22,7 @@ pod 'NZTrampoline'
 
 ## Author
 
-nzstudio, asdcasdc@asdcasdc.com
+Hamidreza Vakilian, hamid@nzstudio.dev
 
 ## License
 
