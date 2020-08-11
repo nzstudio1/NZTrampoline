@@ -53,7 +53,7 @@ import Foundation
 open class NZTrampoline<T: NSObjectProtocol>: NSObject {
     public weak var delegate: T?
     
-    public init(delegate: T?) {
+    public init(delegate: T? = nil) {
         self.delegate = delegate
     }
     
