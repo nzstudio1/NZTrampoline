@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'NZTrampoline'
-  s.version          = '0.1.1'
+  s.version          = '0.1.2'
   s.summary          = 'Allows having more than one delegate for a specific protocol.'
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = 'https://github.com/nzstudio1/NZTrampoline'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'H. Vakilian' => 'hamid@nzstudio.dev' }
+  s.author           = { 'Hamidreza Vakilian' => 'hamid@nzstudio.dev' }
   s.source           = { :git => 'https://github.com/nzstudio1/NZTrampoline.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
